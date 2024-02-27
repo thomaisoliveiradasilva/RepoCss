@@ -85,11 +85,6 @@ body {
   letter-spacing: -3px;
 }
 
-.thin {
-  font-family: var(--font-secondary), sans-serif;
-  font-weight: 100;
-}
-
 .light {
   font-family: var(--font-primary), sans-serif;
   font-weight: 300;
@@ -116,7 +111,7 @@ body {
 header {
   text-transform: uppercase;
   font-size: var(--font-size-small);
-  font-family: var(--font-primary), Arial, Helvetica, sans-serif;
+      font-family: var(--font-primary), Arial, Helvetica, sans-serif;
   font-weight: 400;
   border-bottom: 1px solid var(--color-text-dimmed);
   line-height: 15px;
